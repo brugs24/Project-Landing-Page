@@ -1,1 +1,1 @@
-# Projext-Landing-Page
+# Project-Landing-Page
